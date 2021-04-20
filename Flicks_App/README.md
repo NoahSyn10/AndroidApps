@@ -3,9 +3,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ## PART 2 
 
-* Coming soon...
----
-
 ## Flix Part 1
 
 #### REQUIRED (10pts)
