@@ -10,7 +10,7 @@
 - ### [Flicks App](/Flicks_App)
   - #### An app that allows users to browse movies from the The Movie Database API.
 
-- ### SimpleTweet(/SimpleTweet)
+- ### [SimpleTweet](/SimpleTweet)
   - #### An android app that allows a user to view their Twitter timeline using the [Twitter REST API](https://dev.twitter.com/rest/public).
 
 - ### [Parsetagram](Parsetagram)
