@@ -1,6 +1,6 @@
 # AndroidApps
 
-### A collection of apps I built during the CodePath Android Dev course.
+### A collection of apps I built during the [CodePath Android Dev](https://codepath.org/classes) course.
 
 ## Table of Contents
 
