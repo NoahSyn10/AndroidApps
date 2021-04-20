@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flicks_App</string>
+    <string name="overviewMarker">Overview: </string>
+    <string name="releaseMarker">Release Date: </string>
+</resources>
